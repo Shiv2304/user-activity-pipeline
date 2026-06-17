@@ -79,5 +79,5 @@ Includes:
 
 ### 1. Clone
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Shiv2304/user-activity-pipeline
 cd user-activity-pipeline
